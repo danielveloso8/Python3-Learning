@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 # Python3-Learning
 This repository showcases my Python 3 projects developed during the Codecademy Python 3 course and revisited as part of my Data Analyst with AI Bootcamp, starting September 1, 2025.
 
